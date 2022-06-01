@@ -1,99 +1,99 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-14,
 				-302
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "danceLeft",
-			"indices": [],
-			"name": "gf dleft"
+			"fps": 24,
+			"name": "gf dleft",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-23,
 				-302
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "danceRight",
-			"indices": [],
-			"name": "gf dright"
+			"fps": 24,
+			"name": "gf dright",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-19,
 				-305
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "gf left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "gf left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-24,
 				-307
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "gf down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "gf down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-24,
 				-296
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "gf up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "gf up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-24,
 				-303
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "gf right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "gf right"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-24,
 				-297
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "hey",
-			"loop": false,
-			"name": "hey"
+			"fps": 24,
+			"name": "hey",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/gf",
 	"position": [
-		0,
+		250,
 		0
 	],
-	"healthicon": "face",
+	"healthicon": "gf",
 	"flip_x": false,
 	"healthbar_colors": [
-		161,
-		161,
-		161
+		181,
+		0,
+		84
 	],
 	"camera_position": [
 		-90,
-		370
+		330
 	],
 	"sing_duration": 6.1,
 	"scale": 1
